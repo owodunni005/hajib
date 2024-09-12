@@ -1,0 +1,14 @@
+body{
+    background-image:url(./300435055_399390838969901_7870788501998160041_n.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+body:hover{
+    background-image: url(./7aae05dd-2325-4677-8993-85682f1051a7.jpg);
+    transition-duration: 0.5s;
+}body:hover{
+    background-image:url(./c19314c1-d4fd-4f98-8c65-1b012c5cf537.jpg);
+    transition-duration: 0.5s;
+}
